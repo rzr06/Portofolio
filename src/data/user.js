@@ -31,7 +31,7 @@ const INFO = {
 				"is a web application for sales analysis and prediction using the ARIMA method developed as a final project for the Data Mining course.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
-			link: "https://www.linkedin.com/posts/haikal-purnama-aji-9b3465319_datamining-machinelearning-arima-activity-7301832253725171712-Da3y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCxDVcB_5rWbOFxCpe75YFfxeyineMmm_c",
+			link: "https://www.linkedin.com/posts/haikal-purnama-aji_datamining-machinelearning-arima-activity-7301832253725171712-rG50?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCxDVcB_5rWbOFxCpe75YFfxeyineMmm_c",
 		},
 		
 		{
@@ -76,7 +76,7 @@ const INFO = {
 				"Coin Odyssey: A Quest for Gold is a 2d game prototype that I made by myself from videos on the internet using the Godot4 game engine. ",
 			logo: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg",
 			linkText: "View Project",
-			link: "https://www.linkedin.com/posts/haikal-purnama-aji-9b3465319_gamedevelopment-godotengine-indiegame-activity-7301849667586158592-00fM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCxDVcB_5rWbOFxCpe75YFfxeyineMmm_c"
+			link: "https://www.linkedin.com/posts/haikal-purnama-aji_gamedevelopment-godotengine-indiegame-activity-7301849667586158592-kLy-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCxDVcB_5rWbOFxCpe75YFfxeyineMmm_c"
 		}
 		
 		
