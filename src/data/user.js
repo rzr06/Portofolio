@@ -78,6 +78,15 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://www.linkedin.com/posts/haikal-purnama-aji_gamedevelopment-godotengine-indiegame-activity-7301849667586158592-kLy-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCxDVcB_5rWbOFxCpe75YFfxeyineMmm_c"
 		}
+
+		{
+			title: "Lamun Classifier",
+			description:
+				"Seagrass species identification using image-based feature extraction and SVM classification.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Project",
+			link: "https://lamun-classifier.streamlit.app/",
+		},
 		
 		
 	],
