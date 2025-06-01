@@ -25,6 +25,34 @@ const INFO = {
 	},
 
 		projects: [
+
+		{
+			title: "List.in Aja",
+			description:
+				"A shopping record app with firebase integration.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/flutter/flutter.png",
+			linkText: "View Project",
+			link: "https://drive.google.com/drive/folders/1Go5xYoLNhIA6th-n4pUGslAw67rAUslM?usp=drive_link",
+		},
+
+		{
+			title: "Lamun Classifier",
+			description:
+				"Seagrass species identification using image-based feature extraction and SVM classification.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Project",
+			link: "https://lamun-classifier.streamlit.app/",
+		},
+			
+		{
+			title: "Coin Odyssey: A Quest for Gold",
+			description: 
+				"Coin Odyssey: A Quest for Gold is a 2d game prototype that I made by myself from videos on the internet using the Godot4 game engine. ",
+			logo: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg",
+			linkText: "View Project",
+			link: "https://www.linkedin.com/posts/haikal-purnama-aji_gamedevelopment-godotengine-indiegame-activity-7301849667586158592-kLy-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCxDVcB_5rWbOFxCpe75YFfxeyineMmm_c"
+		},
+		
 		{
 			title: "SiALIP",
 			description:
@@ -68,26 +96,7 @@ const INFO = {
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://rzr06.github.io/Binary-Converter/",
-		},
-
-		{
-			title: "Coin Odyssey: A Quest for Gold",
-			description: 
-				"Coin Odyssey: A Quest for Gold is a 2d game prototype that I made by myself from videos on the internet using the Godot4 game engine. ",
-			logo: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg",
-			linkText: "View Project",
-			link: "https://www.linkedin.com/posts/haikal-purnama-aji_gamedevelopment-godotengine-indiegame-activity-7301849667586158592-kLy-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCxDVcB_5rWbOFxCpe75YFfxeyineMmm_c"
-		},
-
-		{
-			title: "Lamun Classifier",
-			description:
-				"Seagrass species identification using image-based feature extraction and SVM classification.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://lamun-classifier.streamlit.app/",
 		}
-		
 		
 	],
 };
