@@ -30,7 +30,7 @@ const INFO = {
 			title: "List.in Aja",
 			description:
 				"A shopping record app with firebase integration.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/flutter/flutter.png",
+			logo: "https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png",
 			linkText: "View Project",
 			link: "https://drive.google.com/drive/folders/1Go5xYoLNhIA6th-n4pUGslAw67rAUslM?usp=drive_link",
 		},
